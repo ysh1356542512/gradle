@@ -1,1 +1,1 @@
-F:\code\Idea_codes\other\LearnGradle\build\classes\kotlin\main\TestKt.class
+D:\projects\idea_codes\gradle\build\classes\kotlin\main\TestKt.class
