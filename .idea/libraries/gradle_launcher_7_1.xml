@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="gradle-launcher-7.1">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/gradle/wrapper/gradle-launcher-7.1.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
